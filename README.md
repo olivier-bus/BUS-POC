@@ -1,4 +1,14 @@
 # BUS-POC
 Bottom Up Society POC
 
-node.js boilerplate : https://github.com/sahat/hackathon-starter#recommended-design-resources
+- Dev
+
+  ATOM : https://atom.io/
+  
+  etheratom : https://atom.io/packages/etheratom
+
+  ganache : http://truffleframework.com/ganache/
+
+- Fork ?
+
+node.js boilerplate : https://github.com/sahat/hackathon-starter
